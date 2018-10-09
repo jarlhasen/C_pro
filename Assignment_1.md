@@ -2,20 +2,20 @@
 
 
 
-![100ti](/Users/zharylkassyn/Downloads/3.jpg)
+![100ti](https://github.com/jarlhasen/C_pro/blob/master/3.jpg)
 
 ##  -------------Tapsyrma -- 作业-- Assignment-------------
 
 ### 1- 加乐老师在商店买了一公斤橘子🍊，一公斤香蕉🍌。
 
-![100ti](/Users/zharylkassyn/Downloads/6.jpg)
+![100ti](https://github.com/jarlhasen/C_pro/blob/master/6.jpg)
 
 * 一公斤橘子=50元。
 * 一公斤香蕉=55元。
 
 ###### 请计算加乐老师消费了多少？
 
-![100ti](/Users/zharylkassyn/Downloads/7.jpeg)
+![100ti](https://github.com/jarlhasen/C_pro/blob/master/7.jpeg)
 
 ##### --------------------------------------------想学 C 语言的请扫二维码------------------------------------------
 
