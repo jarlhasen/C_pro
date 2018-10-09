@@ -1,4 +1,4 @@
-![100ti](/Users/zharylkassyn/Downloads/1.jpg)
+![100ti](https://github.com/jarlhasen/C_pro/blob/master/1.jpg)
 
 
 
@@ -14,7 +14,7 @@
 
 ## 基本数据类型
 
-![100ti](/Users/zharylkassyn/Desktop/Screen Shot 2018-10-09 at 10.30.01 AM.png)
+![100ti](https://github.com/jarlhasen/C_pro/blob/master/8.png)
 
 #### 1.1 整型 （int ）
 
@@ -137,7 +137,7 @@ b=33333.33333333333333;
 
 # 下一节课我们要讲变量赋数值
 
-![100ti](/Users/zharylkassyn/Downloads/2.jpg)
+![100ti](https://github.com/jarlhasen/C_pro/blob/master/2.jpg)
 
 
 
